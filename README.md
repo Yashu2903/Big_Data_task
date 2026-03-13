@@ -1,9 +1,10 @@
-"# Big_Data_task" 
-"# Problem 1 - Bot-aware sessionization + week-over-week retention" 
-"" 
-"This section:" 
-"1. Deduplicates replayed events using the required tie-break order" 
-"2. Classifies user agents with the required scalar Python UDF" 
-"3. Filters bot traffic" 
-"4. Sessionizes events using America/New_York local date logic" 
-"5. Computes weekly retention metrics using window functions" 
+
+
+## Problem 1 — Bot-aware sessionization + week-over-week retention
+
+This section:
+1. Deduplicates replayed events using the required tie-break order
+2. Classifies user agents with the required scalar Python UDF
+3. Filters bot traffic
+4. Sessionizes events using America/New_York local date logic
+5. Computes weekly retention metrics using window functions
